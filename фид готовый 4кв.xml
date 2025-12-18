@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<complexes>
+  <complex>
+    <id>121792</id>
+    <name>ЖК "Флагман Аква"</name>
+    <address>Кабардино-Балкарская Республика, г. Нальчик, мкр. Восточный</address>
+    <sales_info>
+      <sales_phone>89887253500</sales_phone>
+    </sales_info>
+    <developer>
+      <id>300410</id>
+      <name>СЗ Флагман Инвест</name>
+      <phone>89887253500</phone>
+      <site>https://fl07.ru/</site>
+    </developer>
+    <buildings>
+      <building>
+        <id>186400</id>
+        <name>2 этап (1-5 секции)</name>
+        <building_state>unfinished</building_state>
+        <built_year>2029</built_year>
+        <ready_quarter>4</ready_quarter>
+        <flats>
+          <flat>
+            <flat_id>266</flat_id>
+            <apartment>266</apartment>
+            <floor>10</floor>
+            <room>3</room>
+            <price>5647400</price>
+            <area>66.44</area>
+            <renovation>Без отделки</renovation>
+            <kitchen_area>5.95</kitchen_area>
+            <ceiling_height>3</ceiling_height>
+            <entrance>Корпус 3</entrance>
+            <plans>
+              <plan>https://fl07.ru/plan/266.jpg</plan>
+              <plan>https://fl07.ru/plan/266-2.jpg</plan>
+            </plans>
+          </flat>
+          <flat>
+            <flat_id>271</flat_id>
+            <apartment>271</apartment>
+            <floor>10</floor>
+            <room>4</room>
+            <price>5639750</price>
+            <area>66.35</area>
+            <renovation>Без отделки</renovation>
+            <kitchen_area>5.95</kitchen_area>
+            <ceiling_height>3</ceiling_height>
+            <entrance>Корпус 3</entrance>
+            <plans>
+              <plan>https://fl07.ru/plan/271.jpg</plan>
+            </plans>
+          </flat>
+          <flat>
+            <flat_id>322</flat_id>
+            <apartment>322</apartment>
+            <floor>8</floor>
+            <room>3</room>
+            <price>5640600</price>
+            <area>66.36</area>
+            <renovation>Без отделки</renovation>
+            <kitchen_area>5.95</kitchen_area>
+            <ceiling_height>3</ceiling_height>
+            <entrance>Корпус 4</entrance>
+            <plans>
+              <plan>https://fl07.ru/plan/322.jpg</plan>
+              <plan>https://fl07.ru/plan/322-alt.jpg</plan>
+              <plan>https://fl07.ru/plan/322-3d.jpg</plan>
+            </plans>
+          </flat>
+        </flats>
+      </building>
+    </buildings>
+  </complex>
+</complexes>
